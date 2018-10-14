@@ -1,0 +1,13 @@
+﻿Utilisation d'Unity:
+
+- Verifier la scène sur laquelle vous travaillez/ajoutez/modifiez des éléments
+- Utiliser les dossiers associés aux éléments avec lesquels vous travaillez. 
+  Si vous utilisez une nouvelle catégorie d'éléments, creez un nouveau dossier
+- Si le nombre d'objets utilisé est consequent, classez-les, dans de nouveaux dossiers
+- Maintenez une nomenclature constante
+- CONSERVEZ L'ORDRE
+
+Le non respect de ces regles entrainera ma rage, et je viendrais hanter vos nuits.
+
+Cordialement, Raphaël le maniaque.
+

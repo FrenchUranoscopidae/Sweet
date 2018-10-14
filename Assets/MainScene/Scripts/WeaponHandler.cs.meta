@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c83ca3f8ed10edc44b0a7845c36ed17a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coupJoueur: {instanceID: 0}
+  - player: {instanceID: 0}
+  - camera: {instanceID: 0}
+  - leg: {instanceID: 0}
+  - pont: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

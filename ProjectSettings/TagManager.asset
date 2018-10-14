@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Non_Selected
+  - Selected
+  - Number1
+  - Number2
+  - Number3
+  - Number4
+  - Number5
+  - Number6
+  - Enemy
+  - player
+  - Lake
+  - Leg
+  - liquoriceTree
+  - Box
+  - damageZone
+  - Island
+  - Fire
+  - liquoriceTree2
+  - almond
+  - murArbre
+  - Jumping
+  - jelly
+  - end
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - NavMeshIgnore
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
